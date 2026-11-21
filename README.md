@@ -1,3 +1,8 @@
+https://github.com/KweezyCode/srs-lists/releases/download/latest/16-kb.srs
+https://cdn.jsdelivr.net/gh/KweezyCode/srs-lists@release/telegram.srs
+https://github.com/1andrevich/Re-filter-lists/releases/latest/download/ruleset-domain-refilter_domains.srs
+https://github.com/legiz-ru/sb-rule-sets/raw/refs/heads/main/no-russia-hosts.srs
+
 # Sing-box Routing Rules
 
 Этот репозиторий автоматически генерирует и обновляет подсети (CIDR) в форматах `TXT` и `SRS` для использования в **sing-box**, **v2ray**, **xray** и других инструментах обхода блокировок. Сборка происходит каждую ночь.
